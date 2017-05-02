@@ -1,0 +1,12 @@
+{
+    "name": "agsotelo/ASLPay",
+    "description": "ASLPay pretends to be an implementation of Webpay WebServices a Transbank product (http://www.transbank.cl/) for Laravel & Lumen (5.4). Transbank is a company dedicated to managing all credit card transactions in Chile country.",
+    "keywords": ["laravel", "lumen", "ASLPay", "webpay", "transbank"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Augusto Gerardo Sotelo Labarca",
+            "email": "agsotelo@gmail.com"
+        }
+    ]
+}
